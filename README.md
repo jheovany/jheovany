@@ -7,7 +7,7 @@
 - Cloud: Azure
 - IDE: Rider
 
-# MY TOP PROGRAMMING LANGUAGES
+# MY TOP 5 PROGRAMMING LANGUAGES
 
 1. **Kotlin** - The super evolution of Java, nullsafe, modern and super secure.
 2. **C#** – All-terrain and multiplatform, creating all kinds of systems with C# is a safe bet.
